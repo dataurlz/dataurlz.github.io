@@ -9,7 +9,7 @@ We also use [Bitly][bitly] alot!
 
 |Disclaimers:|Company/Organisation/Group of Personel|
 |-------------|--------------------------|
-|***WE DO NOT IN ANY MANNER IMPLY ANY PARTNERSHIP WITH, SPONSORSHIP BY, OR ENDORSEMENT BY [BITLY][bitly].***|[<kbd>Bitly <img src="https://docrdsfx76ssb.cloudfront.net/static/1589998864/pages/wp-content/uploads/2019/03/b_logo_orange.png" width="100"></kbd>][bitly]<br>[*PRESS BRAND RESOURCES FROM BITLY*][bitlyres]|
+|***WE DO NOT IN ANY MANNER IMPLY ANY PARTNERSHIP WITH, SPONSORSHIP BY, OR ENDORSEMENT BY [BITLY, INC][bitly].***|[<kbd>Bitly, inc <img src="https://docrdsfx76ssb.cloudfront.net/static/1589998864/pages/wp-content/uploads/2019/03/b_logo_orange.png" width="100"></kbd>][bitly]<br>[*PRESS BRAND RESOURCES FROM BITLY*][bitlyres]|
 |----------|--------|
 
 
