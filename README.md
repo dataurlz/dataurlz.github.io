@@ -1,7 +1,9 @@
 # Our [website][OW]!
 <sub><sup>Our slogan: WE *PROTEC*, WE *ATTAC*, BUT MOST IMPORTANTLY, **WE ENCODEC**!</sup></sub>
 
-We also use 
+We are making a new type of "data url", well, not really a url/uri with a "data:" prefix.
+Here! Take park in a test! <kbd> Click Here for a alert! </kbd>
+We also use Bitly alot!
 
 |Disclaimers:|Company/Organisation/Group of Personel|
 |-------------|--------------------------|
