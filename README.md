@@ -7,10 +7,12 @@ Here! Take part in a test! [<kbd> Click Here for a alert! </kbd>](https://theunc
 
 We also use [Bitly][bitly] alot!
 
+<kbd>
 |Disclaimers:|Company/Organisation/Group of Personel|
 |-------------|--------------------------|
 |***WE DO NOT IN ANY MANNER IMPLY ANY PARTNERSHIP WITH, SPONSORSHIP BY, OR ENDORSEMENT BY [BITLY, INC][bitly].***|[<kbd>Bitly, inc <img src="https://docrdsfx76ssb.cloudfront.net/static/1589998864/pages/wp-content/uploads/2019/03/b_logo_orange.png" width="100"></kbd>][bitly]<br>[*PRESS BRAND RESOURCES FROM BITLY*][bitlyres]|
 |----------|--------|
+</kbd>
 
 
 [OW]: https://dataurlz.github.io/
