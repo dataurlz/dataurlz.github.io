@@ -3,7 +3,7 @@
 
 ### What the H\*\*\* are you doing?
 We are making a new type of "data url", well, not really a url/uri with a `data:` prefix to show simple alerts and redirects! <sub><sup>IN ALPHA</sup></sub>.
-Here! Take part in a test! [<kbd> Click Here for a alert! </kbd>][https://theunch0senone.github.io/DUP/js/?script=alert(%22Hey%20there!%20Ohh%20sorry!%20Redirecting%20you%20back!%20:D%20You%20were%20part%20of%20a%20test%20btw!%22);]
+Here! Take part in a test! [<kbd> Click Here for a alert! </kbd>](https://theunch0senone.github.io/DUP/js/?script=alert(%22Hey%20there!%20Ohh%20sorry!%20Redirecting%20you%20back!%20:D%20You%20were%20part%20of%20a%20test%20btw!%22);)
 
 We also use [Bitly][bitly] alot!
 
