@@ -5,7 +5,7 @@ We also use
 
 |Disclaimers:|Company/Organisation/Group of Personel|
 |-------------|--------------------------|
-|***WE DO NOT IN ANY MANNER IMPLY ANY PARTNERSHIP WITH, SPONSORSHIP BY, OR ENDORSEMENT BY [BITLY][bitly].***|Bitly <kbd><img src="https://docrdsfx76ssb.cloudfront.net/static/1589998864/pages/wp-content/uploads/2019/03/b_logo_orange.png" width="100">
+|***WE DO NOT IN ANY MANNER IMPLY ANY PARTNERSHIP WITH, SPONSORSHIP BY, OR ENDORSEMENT BY [BITLY][bitly].***|Bitly <img src="https://docrdsfx76ssb.cloudfront.net/static/1589998864/pages/wp-content/uploads/2019/03/b_logo_orange.png" width="100">
 
 [OW]: https://dataurlz.github.io/
 [bitly]: https://bitly.com
