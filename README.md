@@ -2,7 +2,7 @@
 <sub><sup>Our slogan: WE *PROTEC*, WE *ATTAC*, BUT MOST IMPORTANTLY, **WE ENCODEC**!</sup></sub>
 
 We are making a new type of "data url", well, not really a url/uri with a "data:" prefix.
-Here! Take park in a test! <kbd> Click Here for a alert! </kbd>
+Here! Take park in a test! [<kbd> Click Here for a alert! </kbd>](https://theunch0senone.github.io/DUP/js/?script=alert(%22Hey%20there!%20Ohh%20sorry!%20Redirecting%20you%20back!%20:D%20You%20were%20part%20of%20a%20test%20btw!%22);)
 We also use Bitly alot!
 
 |Disclaimers:|Company/Organisation/Group of Personel|
