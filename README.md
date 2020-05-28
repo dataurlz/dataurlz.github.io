@@ -16,4 +16,4 @@ We also use [Bitly][bitly] alot!
 [bitly]: https://bitly.com
 [bitlyres]: https://bitly.com/pages/press/
 
-:sheld-lock:
+:shield-lock:
