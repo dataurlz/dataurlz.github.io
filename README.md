@@ -15,3 +15,5 @@ We also use [Bitly][bitly] alot!
 [OW]: https://dataurlz.github.io/
 [bitly]: https://bitly.com
 [bitlyres]: https://bitly.com/pages/press/
+
+:infinity:
